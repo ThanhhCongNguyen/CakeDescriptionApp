@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CakeDescriptionApp</string>
+
+    <string name="coffee_cake">Coffee Cake</string>
+    <string name="banana_cake">Banana Cake</string>
+    <string name="funfettti_cake">Funfetti cake</string>
+    <string name="pineapple">Pineapple Upside Down cake</string>
+    <string name="lemon_cake">Lemon Cake</string>
+    <string name="black_forest_cake">Black Forest Cake</string>
+    <string name="cheese_cake">Cheesecake</string>
+
+    <string name="coffee_cake_des">This cake comes as a perfect dessert for coffee lovers.
+        They are delicious and are available in multiple coffee flavours such as Irish and Mocha.</string>
+    <string name="banana_cake_des">The cake flavour that makes you go bananas is the banana cake at the ninth spot.
+        It has a moist texture and an incredibly strong taste.</string>
+    <string name="funfettti_cake_des">Funfetti is a fun-filled and joyous cake that has garnered lots of love from people and hence has also found the eighth spot in this list. Brimming with colourful sprinklers,
+        inside and out, Funfetti is a great birthday cake. Agreed?</string>
+    <string name="pineapple_des">Pineapple is an excellent ingredient for desserts, and hence, the upside-down pineapple cake being a part of this list at number seven doesn’t come as a surprise.
+        The cake throws a refreshing taste into your mouth, and it looks just as beautiful.</string>
+    <string name="lemon_cake_des">A simple but all-time favourite, lemon cake enjoys the sixth number spot in this top ten list. While we love icing lemon cakes with many fun ideas for birthdays and other celebrations,
+        we also love having a few pieces of it at home with coffee.</string>
+    <string name="black_forest_cake_des">At number five,black forest cake is a variety which is full of all the best ingredients. This cake has chocolate, it is sweet, and it has cherries on the top.
+        Black forest cake looks appealing to the eyes and tastes pleasing to the tongue.</string>
+    <string name="cheese_cake_des">Cheesecake ranks at number four as it is loved for being so creamy and yummy. When made well, mixed with the right flavours,
+        cheesecake can easily delight even the most delicate taste bud of your mouth.</string>
+
+
+</resources>
